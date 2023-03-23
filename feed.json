@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://mercury.micro.blog/2023/03/23/paris-rise-up.html",
+				
+				"content_html": "<p>“Paris Rise Up,” they chant. “We decapitated Louis XVI. We will do it again, Macron.&quot; - <a href=\"https://www.nytimes.com/2023/03/22/world/europe/protesters-france-paris-macron.html\">NYT</a></p>\n",
+				"content_text": "“Paris Rise Up,” they chant. “We decapitated Louis XVI. We will do it again, Macron.\" - [NYT](https://www.nytimes.com/2023/03/22/world/europe/protesters-france-paris-macron.html)\n",
+				"date_published": "2023-03-23T12:56:16+01:00",
+				"url": "https://cfkane.xyz/2023/03/23/paris-rise-up.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/03/22/a-joke-among.html",
+				
+				"content_html": "<p>A joke among statehouse reporters is that Iowa is becoming the “Florida of the North” — without the beaches. - <a href=\"https://www.washingtonpost.com/nation/2023/03/20/iowa-trump-gay-rights/\">WaPo</a></p>\n",
+				"content_text": "A joke among statehouse reporters is that Iowa is becoming the “Florida of the North” — without the beaches. - [WaPo](https://www.washingtonpost.com/nation/2023/03/20/iowa-trump-gay-rights/)\n",
+				"date_published": "2023-03-22T06:43:25+01:00",
+				"url": "https://cfkane.xyz/2023/03/22/a-joke-among.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/03/21/i-know-few.html",
+				
+				"content_html": "<p>“I know few people as comfortable in their own skin as President Bush,” Mr. Glassman said. “He knew what kind of life he wanted to live after leaving the White House, and he’s lived it.” - <a href=\"https://www.nytimes.com/2023/03/20/us/politics/george-w-bush-iraq-war.html\">NYT</a></p>\n",
+				"content_text": "“I know few people as comfortable in their own skin as President Bush,” Mr. Glassman said. “He knew what kind of life he wanted to live after leaving the White House, and he’s lived it.” - [NYT](https://www.nytimes.com/2023/03/20/us/politics/george-w-bush-iraq-war.html)\n",
+				"date_published": "2023-03-21T10:40:53+01:00",
+				"url": "https://cfkane.xyz/2023/03/21/i-know-few.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/03/20/earth-is-likely.html",
+				
+				"content_html": "<p>Earth is likely to cross a critical threshold for global warming within the next decade, and nations will need to make an immediate and drastic shift away from fossil fuels to prevent the planet from overheating dangerously beyond that level, according to a new report&hellip; - <a href=\"https://www.nytimes.com/2023/03/20/climate/global-warming-ipcc-earth.html\">NYT</a></p>\n",
+				"content_text": "Earth is likely to cross a critical threshold for global warming within the next decade, and nations will need to make an immediate and drastic shift away from fossil fuels to prevent the planet from overheating dangerously beyond that level, according to a new report... - [NYT](https://www.nytimes.com/2023/03/20/climate/global-warming-ipcc-earth.html)\n",
+				"date_published": "2023-03-20T19:08:32+01:00",
+				"url": "https://cfkane.xyz/2023/03/20/earth-is-likely.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/03/19/they-demand-the.html",
+				
+				"content_html": "<p>They demand the right not just to speak, but to control the speech of others. That’s straight-up thuggish, an aspiration born of a fascist soul. - <a href=\"https://popehat.substack.com/p/hating-everyone-everywhere-all-at\">Popehat</a></p>\n",
+				"content_text": "They demand the right not just to speak, but to control the speech of others. That’s straight-up thuggish, an aspiration born of a fascist soul. - [Popehat](https://popehat.substack.com/p/hating-everyone-everywhere-all-at)\n",
+				"date_published": "2023-03-19T08:20:29+01:00",
+				"url": "https://cfkane.xyz/2023/03/19/they-demand-the.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/03/18/today-march-pretrial.html",
+				
+				"content_html": "<p>Today, 17 March 2023, Pre-Trial Chamber II of the International Criminal Court (“ICC” or “the Court”) issued warrants of arrest for two individuals in the context of the situation in Ukraine: Mr Vladimir Vladimirovich Putin and Ms Maria Alekseyevna Lvova-Belova. - <a href=\"https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and\">ICC</a></p>\n",
+				"content_text": "Today, 17 March 2023, Pre-Trial Chamber II of the International Criminal Court (“ICC” or “the Court”) issued warrants of arrest for two individuals in the context of the situation in Ukraine: Mr Vladimir Vladimirovich Putin and Ms Maria Alekseyevna Lvova-Belova. - [ICC](https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and)\n",
+				"date_published": "2023-03-18T06:59:13+01:00",
+				"url": "https://cfkane.xyz/2023/03/18/today-march-pretrial.html"
+			},
+			{
 				"id": "http://mercury.micro.blog/2023/03/17/chinas-top-leader.html",
 				
 				"content_html": "<p>China’s top leader, Xi Jinping, has cast himself as a global statesman&hellip; Now, Mr. Xi is putting himself at the center of Russia’s war with Ukraine, potentially positioning himself as a mediator to end the protracted fight. - <a href=\"https://www.nytimes.com/2023/03/17/world/asia/xi-jinping-china-putin-russia-war.html\">NYT</a></p>\n",
