@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://mercury.micro.blog/2023/05/01/in-a-time.html",
+				
+				"content_html": "<p>In a time when our culture is marked by outrage, division and cynicism, Ted Lasso calls us back to humility. - <a href=\"https://www.nytimes.com/2023/04/30/opinion/ted-lasso-holy-fool.html\">Nyt</a></p>\n",
+				"content_text": "In a time when our culture is marked by outrage, division and cynicism, Ted Lasso calls us back to humility. - [Nyt](https://www.nytimes.com/2023/04/30/opinion/ted-lasso-holy-fool.html)\n",
+				"date_published": "2023-05-01T09:24:08+01:00",
+				"url": "https://cfkane.xyz/2023/05/01/in-a-time.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/04/30/bidens-global-agenda.html",
+				
+				"content_html": "<p>Biden’s global agenda faces significant challenges as major developing nations seek to evade the intensifying standoff between the United States, Russia and China and, in some cases, exploit that rivalry for their own gain, classified US intelligence assessments show. - <a href=\"https://www.washingtonpost.com/national-security/2023/04/29/biden-foreign-policy-discord-leaks/\">WaPo</a></p>\n",
+				"content_text": "Biden’s global agenda faces significant challenges as major developing nations seek to evade the intensifying standoff between the United States, Russia and China and, in some cases, exploit that rivalry for their own gain, classified US intelligence assessments show. - [WaPo](https://www.washingtonpost.com/national-security/2023/04/29/biden-foreign-policy-discord-leaks/)\n",
+				"date_published": "2023-04-30T07:18:55+01:00",
+				"url": "https://cfkane.xyz/2023/04/30/bidens-global-agenda.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/04/29/the-republican-governor.html",
+				
+				"content_html": "<p>The Republican governor of Montana, Greg Gianforte, signed a bill into law on Friday to restrict transition care for transgender minors, joining about a dozen states that have adopted similar laws since the beginning of the year. - <a href=\"https://www.nytimes.com/2023/04/28/us/montana-trans-gianforte.html\">NYT</a></p>\n",
+				"content_text": "The Republican governor of Montana, Greg Gianforte, signed a bill into law on Friday to restrict transition care for transgender minors, joining about a dozen states that have adopted similar laws since the beginning of the year. - [NYT](https://www.nytimes.com/2023/04/28/us/montana-trans-gianforte.html)\n",
+				"date_published": "2023-04-29T06:45:59+01:00",
+				"url": "https://cfkane.xyz/2023/04/29/the-republican-governor.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/04/28/one-or-both.html",
+				
+				"content_html": "<p>One or both of the major parties might, depending on their calculations of a third candidate’s appeal, accuse No Labels of being a spoiler. Let those parties try to explain how today’s politics could be spoiled. - <a href=\"https://www.washingtonpost.com/opinions/2023/04/28/trump-biden-rematch-invites-no-labels-challenge/\">WaPo</a></p>\n",
+				"content_text": "One or both of the major parties might, depending on their calculations of a third candidate’s appeal, accuse No Labels of being a spoiler. Let those parties try to explain how today’s politics could be spoiled. - [WaPo](https://www.washingtonpost.com/opinions/2023/04/28/trump-biden-rematch-invites-no-labels-challenge/)\n",
+				"date_published": "2023-04-28T16:28:59+01:00",
+				"url": "https://cfkane.xyz/2023/04/28/one-or-both.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/04/27/soft-targets-exist.html",
+				
+				"content_html": "<p>Soft targets exist wherever people, young or old, gather in large numbers without trained armed security ready to respond to attackers. Such highly publicized security is the best detriment to mass carnage. - <a href=\"https://www.washingtonpost.com/opinions/2023/04/26/gun-violence-mass-shootings-heightened-security/\">WaPo</a></p>\n",
+				"content_text": "Soft targets exist wherever people, young or old, gather in large numbers without trained armed security ready to respond to attackers. Such highly publicized security is the best detriment to mass carnage. - [WaPo](https://www.washingtonpost.com/opinions/2023/04/26/gun-violence-mass-shootings-heightened-security/)\n",
+				"date_published": "2023-04-27T12:15:06+01:00",
+				"url": "https://cfkane.xyz/2023/04/27/soft-targets-exist.html"
+			},
+			{
+				"id": "http://mercury.micro.blog/2023/04/26/our-community-was.html",
+				
+				"content_html": "<p>Our community was targeted because of our religion. Prosecutors should take its precepts into account as they decide how to secure justice for those we have lost. - <a href=\"https://www.nytimes.com/2023/04/26/opinion/tree-of-life-synagogue-jewish-tradition-death-penalty.html\">NYT</a></p>\n",
+				"content_text": "Our community was targeted because of our religion. Prosecutors should take its precepts into account as they decide how to secure justice for those we have lost. - [NYT](https://www.nytimes.com/2023/04/26/opinion/tree-of-life-synagogue-jewish-tradition-death-penalty.html)\n",
+				"date_published": "2023-04-26T13:43:50+01:00",
+				"url": "https://cfkane.xyz/2023/04/26/our-community-was.html"
+			},
+			{
 				"id": "http://mercury.micro.blog/2023/04/25/biden-and-harris.html",
 				
 				"content_html": "<p>Biden and Harris remain immensely unpopular, with Biden&rsquo;s approval ratings in the low 40s in most polls. His job performance rating currently stands at 44% approve vs. 56% disapprove, according to the latest Fox News national survey. - <a href=\"https://www.foxnews.com/politics/biden-harris-officially-announce-2024-re-election-campaign\">Fox</a></p>\n",
